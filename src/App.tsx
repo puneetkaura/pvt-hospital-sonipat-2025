@@ -6,6 +6,8 @@ interface HospitalRecord {
   facilityName: string
   formatType: string
   deliveries: number
+  rating: number | null
+  totalReviews: number | null
 }
 
 const BLOCK_COLORS: Record<string, string> = {
@@ -37,11 +39,15 @@ function App() {
           if (!row[0] || !row[2] || !row[4]) continue
           const deliveries = parseInt(row[4], 10)
           if (isNaN(deliveries) || deliveries === 0) continue
+          const rating = row[5] ? parseFloat(row[5]) : null
+          const totalReviews = row[6] ? parseInt(row[6], 10) : null
           records.push({
             healthBlock: row[0].trim(),
             facilityName: row[2].trim(),
             formatType: row[1]?.trim() ?? '',
             deliveries,
+            rating: isNaN(rating as number) ? null : rating,
+            totalReviews: isNaN(totalReviews as number) ? null : totalReviews,
           })
         }
 
@@ -165,10 +171,32 @@ function App() {
                       style={{ backgroundColor: color }}
                       title={record.healthBlock}
                     />
-                    <span className="text-sm font-medium text-slate-900 flex-1">
+                    <span className="text-sm font-medium text-slate-900 flex-1 min-w-0 truncate">
                       {name}
                     </span>
-                    <span className="text-sm font-semibold text-slate-700 tabular-nums shrink-0">
+                    {record.rating !== null && (
+                      <span
+                        className="text-xs font-semibold tabular-nums shrink-0"
+                        style={{
+                          color:
+                            record.rating < 3
+                              ? '#dc2626'
+                              : record.rating < 3.5
+                                ? '#dc2626'
+                                : record.rating >= 4
+                                  ? '#16a34a'
+                                  : '#64748b',
+                        }}
+                      >
+                        {record.rating}
+                        {record.totalReviews !== null && (
+                          <span className="text-slate-400 font-normal">
+                            {' '}({record.totalReviews})
+                          </span>
+                        )}
+                      </span>
+                    )}
+                    <span className="text-sm font-semibold text-slate-700 tabular-nums w-10 text-right shrink-0">
                       {record.deliveries}
                     </span>
                   </li>

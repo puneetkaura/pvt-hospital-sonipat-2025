@@ -1,90 +1,90 @@
-,,,,
-Health Block Name,Format Type,Facility Name,Ownership,M2 [Deliveries]
-,,,,2.2. :: Number of Institutional Deliveries conducted (Including C-Sections)
-,,,,
-Gohana,PHC Format,Jeevan jyoti Hospital,Private,746
-Kharkhoda,PHC Format,JIWANI HOSPITAL,Private,656
-SONIPAT URBAN,PHC Format,BLESSING HOSPITAL,Private,570
-Gohana,PHC Format,ABHISHEK MEMORIAL HOSPITAL,Private,561
-Gannaur,PHC Format,DEEP JYOTI NURSING HOME,Private,490
-Gohana,PHC Format,SHIV SANJIVANI NURSING HOME,Private,420
-SONIPAT URBAN,PHC Format,MUKHI HOSPITAL,Private,397
-SONIPAT URBAN,DH Format,FIMS HOSPITAL,Private,367
-SONIPAT URBAN,PHC Format,BHARAT HOSPITAL,Private,310
-SONIPAT URBAN,SDH Format,Saxena Multi-Speciality Hospital,Private,308
-SONIPAT URBAN,PHC Format,NEST HOSPITAL,Private,297
-SONIPAT URBAN,DH Format,TULIP HOSPITAL,Private,278
-Gannaur,PHC Format,AGGARWAL HOSPITAL,Private,277
-SONIPAT URBAN,PHC Format,KrishnaWati Hospital,Private,276
-Gannaur,PHC Format,VIDYA DEVI MEMORIAL,Private,269
-SONIPAT URBAN,PHC Format,GIRDHAR HOSPITAL,Private,244
-Gohana,PHC Format,SARASWATI HOSPITAL,Private,225
-SONIPAT URBAN,PHC Format,Patil Nursing Home,Private,187
-Gannaur,PHC Format,SITA HOSPITAL,Private,180
-SONIPAT URBAN,PHC Format,BANSAL NURSING HOME,Private,169
-SONIPAT URBAN,PHC Format,BANSAL HEALTH SQUARE AND IVF CENTER,Private,162
-SONIPAT URBAN,PHC Format,Darya Ram Hospital,Private,151
-Gohana,PHC Format,KALADEEP NURSING AND MATERNITY HOME,Private,140
-SONIPAT URBAN,SDH Format,BHAGWAN DASS HOSPITAL,Private,135
-SONIPAT URBAN,PHC Format,Titan Hospital,Private,127
-SONIPAT URBAN,PHC Format,MITTAL NURSING HOME,Private,119
-SONIPAT URBAN,PHC Format,SIYA HOSPITAL,Private,114
-SONIPAT URBAN,PHC Format,Guruji Rawal Hospital,Private,113
-SONIPAT URBAN,PHC Format,SATYA OM HOSPITAL,Private,113
-SONIPAT URBAN,SDH Format,OSCAR SUPER SPECIALITY HOSPITAL,Private,107
-SONIPAT URBAN,DH Format,PARK NIDAAN HOSPITAL,Private,94
-SONIPAT URBAN,PHC Format,BHARAT CLINIC,Private,87
-SONIPAT URBAN,SDH Format,HANDA HOSPITAL,Private,83
-Kharkhoda,PHC Format,Bhardwaj Hospital,Private,80
-Gohana,PHC Format,HARSHIKA HOSPITAL,Private,54
-SONIPAT URBAN,SDH Format,SANJOG HOSPITAL PVT LTD,Private,53
-Badkhalsa,PHC Format,Noble Hospital,Private,52
-SONIPAT URBAN,PHC Format,crossroads Hospital,Private,48
-SONIPAT URBAN,PHC Format,Dahiya Eye and Maternity Hospital,Private,46
-Kharkhoda,PHC Format,Puranchand Hospital,Private,45
-Badkhalsa,SDH Format,Nawal Hospital,Private,43
-Gohana,PHC Format,TARAWATI HOSPITAL,Private,40
-SONIPAT URBAN,SDH Format,Memorial Hospital,Private,38
-Gannaur,PHC Format,Kukreja Nursing Home,Private,36
-Kharkhoda,PHC Format,JASWANTI DEVI HOSPITAL,Private,36
-SONIPAT URBAN,SDH Format,Ujala Cygnus Hospital,Private,35
-Gohana,PHC Format,MISSION HOSPITAL,Private,33
-Gohana,PHC Format,STAR HOSPITAL,Private,31
-SONIPAT URBAN,PHC Format,Shiv clinic,Private,31
-Gohana,PHC Format,SRISHTI HOSPITAL,Private,26
-SONIPAT URBAN,PHC Format,Rama Hospital,Private,26
-SONIPAT URBAN,PHC Format,Dua Hospital,Private,25
-Kharkhoda,PHC Format,Dr. Sethi's Amar Hospital,Private,24
-SONIPAT URBAN,PHC Format,RAI MULTISPECIALITY HOSPITAL,Private,24
-Kharkhoda,PHC Format,HOSHIAR SINGH MEMORIAL MULTI SPECIALITY HOSPITAL,Private,23
-Gohana,PHC Format,SETIYA NURSING HOME,Private,19
-SONIPAT URBAN,PHC Format,RAJ HOSPITAL,Private,18
-SONIPAT URBAN,PHC Format,NAVJEEVAN HOSPITAL,Private,17
-Gohana,PHC Format,AASTHA  MULTISPECIALITY HOSPITAL,Private,16
-Gannaur,PHC Format,MAHARAJA AGGRESAIN,Private,14
-SONIPAT URBAN,PHC Format,IRIS HOSPITAL,Private,14
-SONIPAT URBAN,PHC Format,Kalawati Anand Hospital and Digestive Disease Centre,Private,14
-Halalpur,PHC Format,Chiranjiv Hospital,Private,11
-SONIPAT URBAN,PHC Format,Sanjeevani Hospital,Private,11
-SONIPAT URBAN,PHC Format,JANTA HOSPITAL,Private,9
-Gannaur,PHC Format,VIVAN HOSPITAL,Private,6
-Kharkhoda,PHC Format,Neelam sachdewa Hospital,Private,6
-SONIPAT URBAN,SDH Format,Haryana Multispecialty Hospital,Private,5
-SONIPAT URBAN,SDH Format,Primax Gastro institute,Private,5
-Kharkhoda,PHC Format,Kesav Hospital,Private,4
-SONIPAT URBAN,PHC Format,ARISTO HOSPITAL,Private,4
-Gohana,PHC Format,CHAHAL HOSPITAL,Private,3
-Halalpur,PHC Format,NEW JEEVAN HOSPITAL,Private,3
-Gannaur,PHC Format,DHANKAR NURSING HOME,Private,0
-Kharkhoda,PHC Format,KAILASH HOSPITAL,Private,0
-Kharkhoda,PHC Format,KANTA HOSPITAL,Private,0
-Badkhalsa,PHC Format,Jiya hospital Pvt. Ltd.,Private,0
-Badkhalsa,SDH Format,Hasija Hospital,Private,0
-Gohana,PHC Format,GUPTA CHILDREN HOSPITAL,Private,
-SONIPAT URBAN,PHC Format,CHANDA HOSPITAL,Private,
-SONIPAT URBAN,PHC Format,Child Care Clinic,Private,
-SONIPAT URBAN,PHC Format,MASOOM HOSPITAL,Private,
-SONIPAT URBAN,PHC Format,NAVREKHA NURSING HOME,Private,
-SONIPAT URBAN,PHC Format,Sai new born care centre,Private,
-,,,,
-Physical,,,,
+,,,,,,,,
+Health Block Name,Format Type,Facility Name,Ownership,M2 [Deliveries],Rating,Total Reviews,Latitude,Longitude
+,,,,2.2. :: Number of Institutional Deliveries conducted (Including C-Sections),,,,
+,,,,,,,,
+Gohana,PHC Format,Jeevan jyoti Hospital,Private,746,4.2,22,29.1378,76.6896
+Kharkhoda,PHC Format,JIWANI HOSPITAL,Private,656,4.5,43,28.8758,76.9102
+SONIPAT URBAN,PHC Format,BLESSING HOSPITAL,Private,570,4.1,93,29.0054,77.0049
+Gohana,PHC Format,ABHISHEK MEMORIAL HOSPITAL,Private,561,4.4,180,29.1340,76.6940
+Gannaur,PHC Format,DEEP JYOTI NURSING HOME,Private,490,4.3,23,29.1341,77.0180
+Gohana,PHC Format,SHIV SANJIVANI NURSING HOME,Private,420,,,29.1378,76.6896
+SONIPAT URBAN,PHC Format,MUKHI HOSPITAL,Private,397,3.9,55,28.9998,77.0215
+SONIPAT URBAN,DH Format,FIMS HOSPITAL,Private,367,4.4,2416,28.9724,77.0687
+SONIPAT URBAN,PHC Format,BHARAT HOSPITAL,Private,310,4.9,98,28.9920,77.0343
+SONIPAT URBAN,SDH Format,Saxena Multi-Speciality Hospital,Private,308,4.5,595,28.9943,77.0270
+SONIPAT URBAN,PHC Format,NEST HOSPITAL,Private,297,4.2,410,28.9960,77.0260
+SONIPAT URBAN,DH Format,TULIP HOSPITAL,Private,278,4.2,1752,28.9943,77.0270
+Gannaur,PHC Format,AGGARWAL HOSPITAL,Private,277,4.1,8,29.1341,77.0180
+SONIPAT URBAN,PHC Format,KrishnaWati Hospital,Private,276,4.1,144,29.0006,77.0096
+Gannaur,PHC Format,VIDYA DEVI MEMORIAL,Private,269,3.9,33,29.1341,77.0175
+SONIPAT URBAN,PHC Format,GIRDHAR HOSPITAL,Private,244,4.4,346,28.9960,77.0259
+Gohana,PHC Format,SARASWATI HOSPITAL,Private,225,,,29.1378,76.6896
+SONIPAT URBAN,PHC Format,Patil Nursing Home,Private,187,3.0,91,28.9970,77.0280
+Gannaur,PHC Format,SITA HOSPITAL,Private,180,4.8,95,29.1341,77.0175
+SONIPAT URBAN,PHC Format,BANSAL NURSING HOME,Private,169,4.8,645,29.0005,77.0303
+SONIPAT URBAN,PHC Format,BANSAL HEALTH SQUARE AND IVF CENTER,Private,162,4.8,645,29.0005,77.0303
+SONIPAT URBAN,PHC Format,Darya Ram Hospital,Private,151,4.2,93,29.0027,77.0265
+Gohana,PHC Format,KALADEEP NURSING AND MATERNITY HOME,Private,140,,,29.1378,76.6896
+SONIPAT URBAN,SDH Format,BHAGWAN DASS HOSPITAL,Private,135,3.7,335,28.9904,77.0346
+SONIPAT URBAN,PHC Format,Titan Hospital,Private,127,4.3,20,28.9920,77.0230
+SONIPAT URBAN,PHC Format,MITTAL NURSING HOME,Private,119,4.7,1307,28.9884,77.0233
+SONIPAT URBAN,PHC Format,SIYA HOSPITAL,Private,114,4.9,99,28.9950,77.0270
+SONIPAT URBAN,PHC Format,Guruji Rawal Hospital,Private,113,4.6,10,28.9960,77.0260
+SONIPAT URBAN,PHC Format,SATYA OM HOSPITAL,Private,113,4.0,4,28.9967,77.0357
+SONIPAT URBAN,SDH Format,OSCAR SUPER SPECIALITY HOSPITAL,Private,107,4.2,449,28.9904,77.0346
+SONIPAT URBAN,DH Format,PARK NIDAAN HOSPITAL,Private,94,,,,
+SONIPAT URBAN,PHC Format,BHARAT CLINIC,Private,87,,,,
+SONIPAT URBAN,SDH Format,HANDA HOSPITAL,Private,83,,,,
+Kharkhoda,PHC Format,Bhardwaj Hospital,Private,80,,,,
+Gohana,PHC Format,HARSHIKA HOSPITAL,Private,54,,,,
+SONIPAT URBAN,SDH Format,SANJOG HOSPITAL PVT LTD,Private,53,,,,
+Badkhalsa,PHC Format,Noble Hospital,Private,52,,,,
+SONIPAT URBAN,PHC Format,crossroads Hospital,Private,48,,,,
+SONIPAT URBAN,PHC Format,Dahiya Eye and Maternity Hospital,Private,46,,,,
+Kharkhoda,PHC Format,Puranchand Hospital,Private,45,,,,
+Badkhalsa,SDH Format,Nawal Hospital,Private,43,,,,
+Gohana,PHC Format,TARAWATI HOSPITAL,Private,40,,,,
+SONIPAT URBAN,SDH Format,Memorial Hospital,Private,38,,,,
+Gannaur,PHC Format,Kukreja Nursing Home,Private,36,,,,
+Kharkhoda,PHC Format,JASWANTI DEVI HOSPITAL,Private,36,,,,
+SONIPAT URBAN,SDH Format,Ujala Cygnus Hospital,Private,35,,,,
+Gohana,PHC Format,MISSION HOSPITAL,Private,33,,,,
+Gohana,PHC Format,STAR HOSPITAL,Private,31,,,,
+SONIPAT URBAN,PHC Format,Shiv clinic,Private,31,,,,
+Gohana,PHC Format,SRISHTI HOSPITAL,Private,26,,,,
+SONIPAT URBAN,PHC Format,Rama Hospital,Private,26,,,,
+SONIPAT URBAN,PHC Format,Dua Hospital,Private,25,,,,
+Kharkhoda,PHC Format,Dr. Sethi's Amar Hospital,Private,24,,,,
+SONIPAT URBAN,PHC Format,RAI MULTISPECIALITY HOSPITAL,Private,24,,,,
+Kharkhoda,PHC Format,HOSHIAR SINGH MEMORIAL MULTI SPECIALITY HOSPITAL,Private,23,,,,
+Gohana,PHC Format,SETIYA NURSING HOME,Private,19,,,,
+SONIPAT URBAN,PHC Format,RAJ HOSPITAL,Private,18,,,,
+SONIPAT URBAN,PHC Format,NAVJEEVAN HOSPITAL,Private,17,,,,
+Gohana,PHC Format,AASTHA  MULTISPECIALITY HOSPITAL,Private,16,,,,
+Gannaur,PHC Format,MAHARAJA AGGRESAIN,Private,14,,,,
+SONIPAT URBAN,PHC Format,IRIS HOSPITAL,Private,14,,,,
+SONIPAT URBAN,PHC Format,Kalawati Anand Hospital and Digestive Disease Centre,Private,14,,,,
+Halalpur,PHC Format,Chiranjiv Hospital,Private,11,,,,
+SONIPAT URBAN,PHC Format,Sanjeevani Hospital,Private,11,,,,
+SONIPAT URBAN,PHC Format,JANTA HOSPITAL,Private,9,,,,
+Gannaur,PHC Format,VIVAN HOSPITAL,Private,6,,,,
+Kharkhoda,PHC Format,Neelam sachdewa Hospital,Private,6,,,,
+SONIPAT URBAN,SDH Format,Haryana Multispecialty Hospital,Private,5,,,,
+SONIPAT URBAN,SDH Format,Primax Gastro institute,Private,5,,,,
+Kharkhoda,PHC Format,Kesav Hospital,Private,4,,,,
+SONIPAT URBAN,PHC Format,ARISTO HOSPITAL,Private,4,,,,
+Gohana,PHC Format,CHAHAL HOSPITAL,Private,3,,,,
+Halalpur,PHC Format,NEW JEEVAN HOSPITAL,Private,3,,,,
+Gannaur,PHC Format,DHANKAR NURSING HOME,Private,0,,,,
+Kharkhoda,PHC Format,KAILASH HOSPITAL,Private,0,,,,
+Kharkhoda,PHC Format,KANTA HOSPITAL,Private,0,,,,
+Badkhalsa,PHC Format,Jiya hospital Pvt. Ltd.,Private,0,,,,
+Badkhalsa,SDH Format,Hasija Hospital,Private,0,,,,
+Gohana,PHC Format,GUPTA CHILDREN HOSPITAL,Private,,,,,
+SONIPAT URBAN,PHC Format,CHANDA HOSPITAL,Private,,,,,
+SONIPAT URBAN,PHC Format,Child Care Clinic,Private,,,,,
+SONIPAT URBAN,PHC Format,MASOOM HOSPITAL,Private,,,,,
+SONIPAT URBAN,PHC Format,NAVREKHA NURSING HOME,Private,,,,,
+SONIPAT URBAN,PHC Format,Sai new born care centre,Private,,,,,
+,,,,,,,,
+Physical,,,,,,,,
